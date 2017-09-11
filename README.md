@@ -76,3 +76,7 @@ npm install react-native-deep-linking
 ```
 adb shell am start -a android.intent.action.VIEW -d "exampleapp://greetings/World" com.reactnativedeeplinkingexample
 ```
+
+
+### Example
+![Scheme support](android.png)
