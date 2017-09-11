@@ -79,4 +79,8 @@ adb shell am start -a android.intent.action.VIEW -d "exampleapp://greetings/Worl
 
 
 ### Example
+#### 1. android
 ![Scheme support](android.png)
+
+#### 2. ios
+![Scheme support](ios.gif)
