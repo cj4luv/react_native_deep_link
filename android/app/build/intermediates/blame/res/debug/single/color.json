@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]

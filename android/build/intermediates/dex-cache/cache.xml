@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/d0ec145b7c3bfff37730d5b8b398280eef80d18b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_09ebf04ccd4a3c6d75ecad746ab81d6fddb582b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/c926dc4171a661dd87687bc06255dac67fa78202/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_133ea777bc919c2bbea8df30855b7e739c31af6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/a289f62ffc4e8ead8ae2b15126dde9bcc6afca54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_6c4982e6d135e3682db93526429f835f18c84115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_cc13d70188bb7cfbd28060c528bf2e84c52f04f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/8df2109cc84c5b28c9362d958c194d46f906cd19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_e3d44031f722046d2b90f6f8232f9ff1679b61e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c09b3a54914ff85af181745b33b7d7df53b081d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6d977f7b5b0eceeaa511392a2bf6cb0e6d0372a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_727dc2fe37018fb4c4d2b8364ac8a99079dcd129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_3533db1ff7bf2fdfa03baa50642311a6f54d3685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/8df2109cc84c5b28c9362d958c194d46f906cd19/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_915078cbea6faf87a9f29852d94c15888d142a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/1622015689bcabc7f06ead3d0a76a45f787ebb37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_a082f5b0a1c319e78f539c5de709676cf97408b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_9869278e87d8b6bab9d54b09204e6fa60f8831fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_4474d077b86a015961f0322e8b0de37390375b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/4927e2beb46d4bd3ba38586df6a95779d11e6039/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_f5d8c1abb3e0fe8e063096c0d5059390e6e639ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_b599ff5a63a4bdd7daca3c4bfb7271fb8c05a38e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/cb978a2dbfa4335141b6b9592053ef64bde79efb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_fd5ef40e3ffa33a3acbc9709b25a6a72cecdf59f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/476537216ed78607d433229318cc6ccfe8386bc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_ef3ba0746d9c8cc13e292a5e80662cbddb814d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/8ab552d9d1510f4410c897478e11458905d05efa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_0ff9b53f7f4e6487462ac6573b7315392f8cb2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_6f41a0defcd58c60f75c21e535b71feefc8de084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/09bce43d343b296c6997dd2d8db47a8e7325b389/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_413bb115149e87430eb60585561f127582c90cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laon/.android/build-cache/09bce43d343b296c6997dd2d8db47a8e7325b389/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_0d4a7367f7621d77c65b7e98e6eced7441efdf88.jar" />
+    </item>
+
+</items>

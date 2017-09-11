@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/laon/.android/build-cache/8df2109cc84c5b28c9362d958c194d46f906cd19/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/laon/.android/build-cache/8df2109cc84c5b28c9362d958c194d46f906cd19/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/laon/.android/build-cache/8df2109cc84c5b28c9362d958c194d46f906cd19/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/laon/.android/build-cache/8df2109cc84c5b28c9362d958c194d46f906cd19/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/laon/.android/build-cache/8df2109cc84c5b28c9362d958c194d46f906cd19/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/laon/.android/build-cache/3aea51d198e34df21b1c37194df788c37bed17dd/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/laon/WorkSpace/DeepLinking/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/laon/.android/build-cache/8df2109cc84c5b28c9362d958c194d46f906cd19/output/res/anim/fade_out.xml"
+    }
+]
