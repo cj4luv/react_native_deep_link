@@ -42,7 +42,7 @@ npm install react-native-deep-linking
 
 #### For Android:
 
-### 1. Add this your AndroidManifest.xml
+#### 1. Add this your AndroidManifest.xml
 
 ```xml
 <activity
@@ -65,13 +65,13 @@ npm install react-native-deep-linking
 </activity>
 ```
 
-### 2. To test this out, open Android Studio. Open Run -> Edit Configurations and change the launch options to URL, passing in the following url: ```exampleapp://greetings/```
+#### 2. To test this out, open Android Studio. Open Run -> Edit Configurations and change the launch options to URL, passing in the following url: ```exampleapp://greetings/```
 
 ![Scheme support](android-test.png)
 
-or
+#### or
 
-command-line
+#### command-line
 
 ```
 adb shell am start -a android.intent.action.VIEW -d "exampleapp://greetings/World" com.reactnativedeeplinkingexample
