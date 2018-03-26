@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Linking, StyleSheet, Text, View } from 'react-native';
+import { Button, Linking, StyleSheet, Text, View, Platform } from 'react-native';
 import DeepLinking from 'react-native-deep-linking';
 
 export default class App extends React.Component {
@@ -39,14 +39,38 @@ export default class App extends React.Component {
   }
 
   handleUrl = ({ url }) => {
-    console.log('url',url)
+    console.log('url',url);
     Linking.canOpenURL(url).then((supported) => {
       if (supported) {
+        console.log('sucsess')
         DeepLinking.evaluateUrl(url);
       } else {
-        console.log(url);
+        console.log('fail',url);
       }
     });
+  }
+
+  checked() {
+    console.log(Platform.OS)
+    if(Platform.OS === 'ios') {
+      Linking.canOpenURL('fb268536283583339://').then((supported) => {
+        console.log('sup',  supported);
+        if(supported) {
+          console.log('sup2',  supported);
+          Linking.openURL('fb268536283583339://');
+        } else {
+          Linking.openURL('itms-apps://itunes.apple.com/kr/app/%EB%8F%99%EB%82%A8%EC%95%84-%ED%83%9C%EA%B5%AD-%EC%97%AC%ED%96%89-%EB%B2%A0%ED%8A%B8%EB%82%A8-%EC%97%AC%ED%96%89-%EA%B7%B8%EB%A6%AC%EA%B3%A0/id1222473224?mt=8')
+        }
+      })
+    } else {
+      Linking.canOpenURL('naverblog://').then((supported) => {
+        if(supported) {
+          Linking.openURL('naverblog://');
+        } else {
+          Linking.openURL("https://play.google.com/store/apps/details?id=com.nhn.android.blog&hl=ko")
+        }
+      })
+    }
   }
 
   render() {
@@ -64,6 +88,14 @@ export default class App extends React.Component {
           <Button
             onPress={() => Linking.openURL('example://test/100/details')}
             title="Open example://test/100/details"
+          />
+          {/* <Button
+            onPress={() => Linking.openURL('fb268536283583339://')}
+            title="Open DNA"
+          /> */}
+          <Button
+            onPress={() => this.checked()}
+            title="Open DNA2"
           />
         </View>
         <View style={styles.container}>
